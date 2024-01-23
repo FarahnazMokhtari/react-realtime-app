@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-realtime-app/static/css/main.e4445269.css",
+    "main.js": "/react-realtime-app/static/js/main.1b5b8a86.js",
+    "static/js/787.7d06aa4f.chunk.js": "/react-realtime-app/static/js/787.7d06aa4f.chunk.js",
+    "index.html": "/react-realtime-app/index.html",
+    "main.e4445269.css.map": "/react-realtime-app/static/css/main.e4445269.css.map",
+    "main.1b5b8a86.js.map": "/react-realtime-app/static/js/main.1b5b8a86.js.map",
+    "787.7d06aa4f.chunk.js.map": "/react-realtime-app/static/js/787.7d06aa4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4445269.css",
+    "static/js/main.1b5b8a86.js"
+  ]
+}
